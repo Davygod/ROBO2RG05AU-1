@@ -8,3 +8,5 @@ Gerið sauðakóða og flæðirit áður en þið forritið og skilið í Innu M
 neðan setjið gildi sem ekki breytast í t.d const int.  Hafið föll og breytur með lýsandi heiti og á ensku.
 Notið for-lúppu eða while búið til fall void drive(int drivetime Gerið flæðiritið í http://draw.io  þegar búið farið í  
 File-export as - image. Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
+
+![Mynd af verkefni 1 hluti a](/verkefni/verkefni1a.png)
