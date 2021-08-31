@@ -7,4 +7,4 @@ Suiside sama verkefni og 1.hluti nema með með shaft encoder Hér er það snú
 1. [Uppsetning kóða]()
 2. [Myndband af keyrslu]()
 
-![Mynd af verkefni 1 hluti b]().
+![Mynd af verkefni 1 hluti b](/verkefni/verkefni1b.png).
