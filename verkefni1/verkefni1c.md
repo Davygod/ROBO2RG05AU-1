@@ -11,4 +11,4 @@ Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geym
 1. [Uppsetning kóða]()
 2. [Myndband af keyrslu]()
 
-![Mynd af verkefni 1 hluti c]().
+![Mynd af verkefni 1 hluti c](/verkefni1/verkefni1c.png).
