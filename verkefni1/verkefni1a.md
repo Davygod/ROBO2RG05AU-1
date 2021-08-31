@@ -9,7 +9,7 @@ neðan setjið gildi sem ekki breytast í t.d const int.  Hafið föll og breytu
 Notið for-lúppu eða while búið til fall void drive(int drivetime Gerið flæðiritið í http://draw.io  þegar búið farið í  
 File-export as - image. Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
 
-1. [Uppsetning kóða](/verkefni1/verkefni1a.c)
+1. [Uppsetning kóða](/verkefni1/Verkefni1a.c)
 2. [Myndband af keyrslu](https://www.youtube.com/watch?v=2Qx7q3PxbN0)
 
 ![Mynd af verkefni 1 hluti a](/verkefni1/verkefni1a.png).
