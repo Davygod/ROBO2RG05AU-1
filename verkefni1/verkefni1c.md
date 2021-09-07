@@ -9,6 +9,6 @@ Gerið sauðakóða sem textaskjal með C kóðanum og flæðirit áður en þi�
 Gerið flæðiritið í [Draw.io](http://draw.io) þegar búið farið í  File-export as - image
 Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
 1. [Uppsetning kóða](/verkefni1/Verkefni1c.c)
-2. [Myndband af keyrslu]()
+2. [Myndband af keyrslu](https://www.youtube.com/watch?v=GM0YtHNhsjA)
 
 ![Mynd af verkefni 1 hluti c](/verkefni1/verkefni1c.png).
