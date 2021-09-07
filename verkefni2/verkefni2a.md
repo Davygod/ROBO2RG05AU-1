@@ -8,3 +8,6 @@ Búið til md skrá sem heitir remotecontrolmapping.md og skráið þar alla tak
 t.d:
 1. Btn6D = open claw
 1. Btn6U = close claw
+
+* [Uppsetning kóða](/verkefni2/verkefni2a.c)
+* [remotecontrolmapping.md](/verkefni2/remotecontrolmapping.md)
