@@ -11,3 +11,4 @@ t.d:
 
 * [Uppsetning kóða](/verkefni2/verkefni2a.c)
 * [remotecontrolmapping.md](/verkefni2/remotecontrolmapping.md)
+* [Keyrslumyndband](https://www.youtube.com/watch?v=M5Qko_IowZM)
