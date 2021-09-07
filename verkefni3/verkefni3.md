@@ -6,6 +6,11 @@ Hér eftir skulu öll verkefni vera þannig að hægt sé að stöðva vélmenni
 - Skilið video af vélmenni leysa allar þrautinar setjið á YouTube og skilið slóð á videóið í Innu
 - Skilið sauðakóða og flæðiriti https://www.draw.io/
 
+* [Uppsetning kóða]()
+* [Keyrslumyndband]()
+
 Skoðið vel: Sample Program- light Sensor og Ultrasonic Range Module
 Notið heimasíðu okkar og lesið vel allt efni um Sensing hér: http://cmra.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_cortex_v2/
+
+![Mynd af verkefni 3]()
 
