@@ -8,4 +8,7 @@ Farið á heimasíðu okkar og lesið allt efni um remote controle,  þetta: htt
 Einnig eru til í sample program Remote Control  kóðar sem hjálpa ykkur
 Gangi ykkur vel!
 
+* [Uppsetning kóða]()
+* [Keyrslumyndband]()
+
 ![Mynd af verkefni 2 hluti b](/verkefni2/verkefni2b.png)
