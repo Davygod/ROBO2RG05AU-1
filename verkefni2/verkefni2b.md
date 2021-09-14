@@ -9,6 +9,6 @@ Einnig eru til í sample program Remote Control  kóðar sem hjálpa ykkur
 Gangi ykkur vel!
 
 * [Uppsetning kóða](/verkefni2/verkefni2b.c)
-* [Keyrslumyndband](https://studio.youtube.com/video/126OP1vigyw/edit)
+* [Keyrslumyndband](https://www.youtube.com/watch?v=126OP1vigyw)
 
 ![Mynd af verkefni 2 hluti b](/verkefni2/verkefni2b.png)
