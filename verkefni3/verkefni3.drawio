@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T10:56:07.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ZE3I3cTtZwVhju4QIrPr" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T10:56:24.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="BOAQj7pGghA9OpDYSpT9" version="15.1.4" type="github">
   <diagram id="e6m10x-uRhs_gHwGIP7R" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           <mxGeometry x="240" y="310" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ziUaPbk_OteyMrfKzhlk-27" value="if light_sensor &amp;lt; BASELIGHT || sonar_sensor &amp;lt; 50" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="270" height="60" as="geometry" />
+          <mxGeometry x="350" y="520" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
