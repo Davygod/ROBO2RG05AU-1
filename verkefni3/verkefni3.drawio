@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T11:11:35.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="-a5v1OU9M7a0yq4keWzz" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T11:40:30.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="XSae9RoTny5KVChvXK2z" version="15.1.4" type="github">
   <diagram id="e6m10x-uRhs_gHwGIP7R" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,14 +41,11 @@
             <mxPoint x="625" y="550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziUaPbk_OteyMrfKzhlk-21" value="BASERETURN = 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ziUaPbk_OteyMrfKzhlk-22" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ziUaPbk_OteyMrfKzhlk-23" value="BASELIGHT = 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="110" height="20" as="geometry" />
+        <mxCell id="ziUaPbk_OteyMrfKzhlk-23" value="BASELIGHT = currentLight / 2 = 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="250" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ziUaPbk_OteyMrfKzhlk-24" value="if(btn = 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="400" width="70" height="20" as="geometry" />
