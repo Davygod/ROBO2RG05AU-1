@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T14:44:56.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="EZc6afqIR6D85LFK67vk" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T16:53:28.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="LVF-hec2C1zF6nq6HNtu" version="15.2.9" type="github">
   <diagram id="piC1RSV9TCUiH1rMfZQQ" name="Page-1">
     <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="Ykde_xmOlf_sK77zefNl-24" value="if(SensorValue(lineFollowerLEFT) &amp;gt; threshold)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="260" y="540" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ykde_xmOlf_sK77zefNl-25" value="int threshold = 505;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ykde_xmOlf_sK77zefNl-25" value="int threshold = 2000;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="150" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ykde_xmOlf_sK77zefNl-27" value="if(SensorValue(lineFollowerCENTER) &amp;gt; threshold)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
