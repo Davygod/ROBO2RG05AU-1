@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T16:27:21.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="AHZFdwDmWresSMJMIBL6" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T16:28:20.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="-ySwKyNRRFJWNZGYUqUR" version="15.3.5" type="github">
   <diagram id="0QeddL1r5mFSKa4G-LGD" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,13 @@
         </mxCell>
         <mxCell id="IMHdvO0FQ3p-l5Y8LVks-22" value="while(sonar_sensor &amp;lt; 50)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IMHdvO0FQ3p-l5Y8LVks-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.833;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IMHdvO0FQ3p-l5Y8LVks-23" target="IMHdvO0FQ3p-l5Y8LVks-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IMHdvO0FQ3p-l5Y8LVks-23" value="wait" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="60" height="30" as="geometry" />
