@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T15:37:19.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="2IPmiHiKHZ6D8_lO-H_-" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T15:37:32.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="A4tsIMBmmpX9rQ2qzbE3" version="15.3.5" type="github">
   <diagram id="0QeddL1r5mFSKa4G-LGD" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="IMHdvO0FQ3p-l5Y8LVks-2" value="Stop" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IMHdvO0FQ3p-l5Y8LVks-3" value="if (butn = 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="600" width="80" height="20" as="geometry" />
+        <mxCell id="IMHdvO0FQ3p-l5Y8LVks-3" value="if (btn = 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="600" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
