@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T17:11:25.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="259Z9wDktLZHPmxw6KZ-" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T17:12:33.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="2zVcYb2m7CjtwMut5GTu" version="15.3.5" type="github">
   <diagram id="0QeddL1r5mFSKa4G-LGD" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="IMHdvO0FQ3p-l5Y8LVks-30" value="&lt;span&gt;if(light_sensor &amp;lt; BASELIGHT)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="110" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IMHdvO0FQ3p-l5Y8LVks-32" value="potientom = 800" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
