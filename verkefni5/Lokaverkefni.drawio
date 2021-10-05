@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T10:56:51.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ucJFeJrwfasorG1dF2zH" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T11:02:17.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="XsByiUTlwqgVt3sVjggK" version="15.4.1" type="github">
   <diagram id="0QeddL1r5mFSKa4G-LGD" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
           <mxGeometry x="260" y="540" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IMHdvO0FQ3p-l5Y8LVks-18" value="int threshold = 2000;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="210" y="160" width="120" height="20" as="geometry" />
+          <mxGeometry x="200" y="160" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IMHdvO0FQ3p-l5Y8LVks-19" value="if(SensorValue(lineFollowerCENTER) &amp;gt; threshold)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="470" y="510" width="280" height="20" as="geometry" />
@@ -98,8 +98,8 @@
         <mxCell id="IMHdvO0FQ3p-l5Y8LVks-30" value="&lt;span&gt;if(light_sensor &amp;lt; BASELIGHT)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="110" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IMHdvO0FQ3p-l5Y8LVks-32" value="potientom = 800" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="210" y="180" width="100" height="20" as="geometry" />
+        <mxCell id="IMHdvO0FQ3p-l5Y8LVks-32" value="potientom = 800;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xdFS_AT7n9aighLaH5Sp-1" value="turn()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="454.75" y="700" width="60" height="60" as="geometry" />
@@ -119,6 +119,12 @@
               <mxPoint x="570" y="339" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xdFS_AT7n9aighLaH5Sp-13" value="BASELIGHT = 200;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xdFS_AT7n9aighLaH5Sp-14" value="BASEDEG = 2.7;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
